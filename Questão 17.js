@@ -7,7 +7,7 @@ if(codigo != codigoPadrao){
     console.log("Usuario invalido")
 }
 else if(senha !=senhaPadrao){
-    console.log("senha incorreta")
+    console.log("senha invalida")
 }
 else{
     console.log("Acesso permitido")
